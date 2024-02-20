@@ -1,0 +1,139 @@
+#Configurar ruta de datasets
+train:
+  - /home/surones/TeamAware/NewDataset/AnnotatedFlood/images/train/
+  - /home/surones/TeamAware/NewDataset/DoorsWindows/images/train/
+  - /home/surones/TeamAware/NewDataset/LUGGAGE/images/train/
+  - /home/surones/TeamAware/NewDataset/Person2/images/train/
+  - /home/surones/TeamAware/NewDataset/BACKPACK/images/train/
+  - /home/surones/TeamAware/NewDataset/Bicycle/images/train/
+  - /home/surones/TeamAware/NewDataset/fire/images/train/
+  - /home/surones/TeamAware/NewDataset/MOTORBIKElite/images/train/
+  # - /home/surones/TeamAware/NewDataset/car_dataset/images/train/
+  - /home/surones/TeamAware/NewDataset/FORESTFIRE/images/train/
+  - /home/surones/TeamAware/NewDataset/Person/images/train/
+  - /home/surones/TeamAware/NewDataset/TRAINS/images/train/
+  - /home/surones/TeamAware/NewDataset/smoke/images/train/
+  - /home/surones/TeamAware/NewDataset/PETS/images/train/
+  - /home/surones/TeamAware/NewDataset/CELLPHONE/images/train/
+  - /home/surones/TeamAware/NewDataset/coco_reducido/images/train/
+  - /home/surones/TeamAware/NewDataset/BomberoFuego/images/train/
+
+
+val:
+  - /home/surones/TeamAware/NewDataset/AnnotatedFlood/images/valid/
+  - /home/surones/TeamAware/NewDataset/DoorsWindows/images/valid/
+  - /home/surones/TeamAware/NewDataset/LUGGAGE/images/valid/
+  - /home/surones/TeamAware/NewDataset/Person2/images/valid/
+  - /home/surones/TeamAware/NewDataset/BACKPACK/images/valid/
+  - /home/surones/TeamAware/NewDataset/Bicycle/images/valid/
+  - /home/surones/TeamAware/NewDataset/fire/images/valid/
+  - /home/surones/TeamAware/NewDataset/MOTORBIKElite/images/valid/
+  # - /home/surones/TeamAware/NewDataset/car_dataset/images/valid/
+  - /home/surones/TeamAware/NewDataset/FORESTFIRE/images/valid/
+  - /home/surones/TeamAware/NewDataset/Person/images/valid/
+  - /home/surones/TeamAware/NewDataset/TRAINS/images/valid/
+  - /home/surones/TeamAware/NewDataset/smoke/images/valid/
+  - /home/surones/TeamAware/NewDataset/PETS/images/valid/
+  - /home/surones/TeamAware/NewDataset/CELLPHONE/images/valid/
+  - /home/surones/TeamAware/NewDataset/coco_reducido/images/valid/
+  - /home/surones/TeamAware/NewDataset/BomberoFuego/images/valid/
+
+
+test:
+  - /home/surones/TeamAware/NewDataset/AnnotatedFlood/images/test/
+  - /home/surones/TeamAware/NewDataset/DoorsWindows/images/test/
+  - /home/surones/TeamAware/NewDataset/LUGGAGE/images/test/
+  - /home/surones/TeamAware/NewDataset/Person2/images/test/
+  - /home/surones/TeamAware/NewDataset/BACKPACK/images/test/
+  - /home/surones/TeamAware/NewDataset/Bicycle/images/test/
+  - /home/surones/TeamAware/NewDataset/fire/images/test/
+  - /home/surones/TeamAware/NewDataset/MOTORBIKElite/images/test/
+  # - /home/surones/TeamAware/NewDataset/car_dataset/images/test/
+  - /home/surones/TeamAware/NewDataset/FORESTFIRE/images/test/
+  - /home/surones/TeamAware/NewDataset/Person/images/test/
+  - /home/surones/TeamAware/NewDataset/TRAINS/images/test/
+  - /home/surones/TeamAware/NewDataset/smoke/images/test/
+  - /home/surones/TeamAware/NewDataset/PETS/images/test/
+  - /home/surones/TeamAware/NewDataset/CELLPHONE/images/test/
+  - /home/surones/TeamAware/NewDataset/coco_reducido/images/test/
+  - /home/surones/TeamAware/NewDataset/BomberoFuego/images/test/
+
+
+train_labels:
+  - /home/surones/TeamAware/NewDataset/AnnotatedFlood/labels/train/
+  - /home/surones/TeamAware/NewDataset/DoorsWindows/labels/train/
+  - /home/surones/TeamAware/NewDataset/LUGGAGE/labels/train/
+  - /home/surones/TeamAware/NewDataset/Person2/labels/train/
+  - /home/surones/TeamAware/NewDataset/BACKPACK/labels/train/
+  - /home/surones/TeamAware/NewDataset/Bicycle/labels/train/
+  - /home/surones/TeamAware/NewDataset/fire/labels/train/
+  - /home/surones/TeamAware/NewDataset/MOTORBIKElite/labels/train/
+  # - /home/surones/TeamAware/NewDataset/car_dataset/labels/train/
+  - /home/surones/TeamAware/NewDataset/FORESTFIRE/labels/train/
+  - /home/surones/TeamAware/NewDataset/Person/labels/train/
+  - /home/surones/TeamAware/NewDataset/TRAINS/labels/train/
+  - /home/surones/TeamAware/NewDataset/smoke/labels/train/
+  - /home/surones/TeamAware/NewDataset/PETS/labels/train/
+  - /home/surones/TeamAware/NewDataset/CELLPHONE/labels/train/
+  - /home/surones/TeamAware/NewDataset/coco_reducido/labels/train/
+  - /home/surones/TeamAware/NewDataset/BomberoFuego/labels/train/
+
+valid_labels:
+  - /home/surones/TeamAware/NewDataset/AnnotatedFlood/labels/valid/
+  - /home/surones/TeamAware/NewDataset/DoorsWindows/labels/valid/
+  - /home/surones/TeamAware/NewDataset/LUGGAGE/labels/valid/
+  - /home/surones/TeamAware/NewDataset/Person2/labels/valid/
+  - /home/surones/TeamAware/NewDataset/BACKPACK/labels/valid/
+  - /home/surones/TeamAware/NewDataset/Bicycle/labels/valid/
+  - /home/surones/TeamAware/NewDataset/fire/labels/valid/
+  - /home/surones/TeamAware/NewDataset/MOTORBIKElite/labels/valid/
+  # - /home/surones/TeamAware/NewDataset/car_dataset/labels/valid/
+  - /home/surones/TeamAware/NewDataset/FORESTFIRE/labels/valid/
+  - /home/surones/TeamAware/NewDataset/Person/labels/valid/
+  - /home/surones/TeamAware/NewDataset/TRAINS/labels/valid/
+  - /home/surones/TeamAware/NewDataset/smoke/labels/valid/
+  - /home/surones/TeamAware/NewDataset/PETS/labels/valid/
+  - /home/surones/TeamAware/NewDataset/CELLPHONE/labels/valid/
+  - /home/surones/TeamAware/NewDataset/coco_reducido/labels/valid/
+  - /home/surones/TeamAware/NewDataset/BomberoFuego/labels/valid/
+
+
+test_labels:
+  - /home/surones/TeamAware/NewDataset/AnnotatedFlood/labels/test/
+  - /home/surones/TeamAware/NewDataset/DoorsWindows/labels/test/
+  - /home/surones/TeamAware/NewDataset/LUGGAGE/labels/test/
+  - /home/surones/TeamAware/NewDataset/Person2/labels/test/
+  - /home/surones/TeamAware/NewDataset/BACKPACK/labels/test/
+  - /home/surones/TeamAware/NewDataset/Bicycle/labels/test/
+  - /home/surones/TeamAware/NewDataset/fire/labels/test/
+  - /home/surones/TeamAware/NewDataset/MOTORBIKElite/labels/test/
+  # - /home/surones/TeamAware/NewDataset/car_dataset/labels/test/
+  - /home/surones/TeamAware/NewDataset/FORESTFIRE/labels/test/
+  - /home/surones/TeamAware/NewDataset/Person/labels/test/
+  - /home/surones/TeamAware/NewDataset/TRAINS/labels/test/
+  - /home/surones/TeamAware/NewDataset/smoke/labels/test/
+  - /home/surones/TeamAware/NewDataset/PETS/labels/test/
+  - /home/surones/TeamAware/NewDataset/CELLPHONE/labels/test/
+  - /home/surones/TeamAware/NewDataset/coco_reducido/labels/test/
+  - /home/surones/TeamAware/NewDataset/BomberoFuego/labels/test/
+
+# Classes
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorbike
+  4: bus
+  5: train
+  6: truck
+  7: animal
+  8: backpack
+  9: fire
+  10: smoke
+  11: flood
+  12: doors
+  13: stairs
+  14: windows
+  15: suitcase
+  16: cellphone
+

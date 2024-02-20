@@ -1,0 +1,39 @@
+#Configurar ruta de datasets
+train:
+  - /home/santos.urones/TeamAware/NewDataset/Muestra/images/train/
+
+val:
+  - /home/santos.urones/TeamAware/NewDataset/Muestra/images/valid/
+
+test:
+  - /home/santos.urones/TeamAware/NewDataset/Muestra/images/test/
+
+train_labels:
+  - /home/santos.urones/TeamAware/NewDataset/Muestra/labels/train/
+
+valid_labels:
+  - /home/santos.urones/TeamAware/NewDataset/Muestra/labels/valid/
+
+test_labels:
+  - /home/santos.urones/TeamAware/NewDataset/Muestra/labels/test/
+
+  
+# Classes
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorbike
+  4: bus
+  5: train
+  6: truck
+  7: animal
+  8: backpack
+  9: fire
+  10: smoke
+  11: flood
+  12: doors
+  13: stairs
+  14: windows
+  15: suitcase
+  16: cellphone
